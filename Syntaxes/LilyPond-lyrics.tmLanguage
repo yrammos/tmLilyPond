@@ -7,7 +7,7 @@
 		<string>ly</string>
 	</array>
 	<key>name</key>
-	<string>LilyPond-lyrics</string>
+	<string>LilyPond* (lyrics)</string>
 	<key>patterns</key>
 	<array>
 		<dict>

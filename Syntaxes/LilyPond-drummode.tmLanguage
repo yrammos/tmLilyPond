@@ -7,7 +7,7 @@
 		<string>ly</string>
 	</array>
 	<key>name</key>
-	<string>LilyPond-drummode</string>
+	<string>LilyPond* (drummode)</string>
 	<key>patterns</key>
 	<array>
 		<dict>
