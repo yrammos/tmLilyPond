@@ -11,4 +11,11 @@ TextMate currently ships with Jacob Rus's `LilyPond.tmbundle`, which provides a 
 
 ![Screenshot](https://raw.githubusercontent.com/yrammos/tmLilyPond/master/Screenshot.png)
 
+### Installation (for TextMate 2)
+
+    mkdir -p ~/Library/Application\ Support/Avian/Bundles
+    cd !$
+    git clone git://github.com/yrammos/tmLilyPond.git "tmLilyPond.tmbundle"
+    osascript -e 'tell app "TextMate" to reload bundles'
+
 Copyright © 2014 by [Yannis Rammos](http://www.twitter.com/yannisrammos). This work is made available under the terms of the Creative Commons Attribution-NonCommercial 3.0 Unported (CC BY-NC 3.0) license, <http://creativecommons.org/licenses/by-sa/3.0/>.
