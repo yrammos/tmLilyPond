@@ -7,7 +7,7 @@ Enhanced LilyPond syntax highlighter for the [TextMate](http://macromates.com) e
 
 ### Motivation
 
-TextMate currently ships with Jacob Rus's `LilyPond.tmbundle`, which provides a rather basic LilyPond grammar definition for syntax highlighting (no support for figured bass, drum notation, and other special features). `tmLilyPond` is intended as a replacement for the standard LilyPond syntax in TextMate. To prevent conflicts between the two highlighters, it is suggested that you disable the standard one as shown in the screenshot below.
+TextMate currently ships with Jacob Rus's `LilyPond.tmbundle`, which provides a rather basic LilyPond grammar definition for syntax highlighting. `tmLilyPond` is intended as an upgrade for the standard LilyPond syntax in TextMate. To prevent conflicts between the two highlighters, it is suggested that you disable the standard one as shown in the screenshot below.
 
 ![Screenshot](https://raw.githubusercontent.com/yrammos/tmLilyPond/master/Screenshot.png)
 
