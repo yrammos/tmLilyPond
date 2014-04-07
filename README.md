@@ -1,4 +1,14 @@
 tmLilyPond
 ==========
 
-An enhanced LilyPond syntax highlighter for the TextMate editor.
+Enhanced LilyPond syntax highlighter for the [TextMate](http://macromates.com) editor.
+
+**NOTE:** tmLilyPond is a TextMate port of my [SubLilyPond](https://www.github.com/yrammos/SubLilyPond) highlighter for Sublime Text. For screenshots, release history, and other pertinent information, please follow the link above.
+
+### Why another
+
+TextMate currently ships with Jacob Rus's `LilyPond.tmbundle`, which provides a LilyPond grammar for syntax highlighting, albeit a rather rudimentary one (no support for figured bass, drum notation, and other special features). `tmLilyPond` is intended as a replacement for the standard LilyPond syntax in TextMate. To prevent conflicts between the two highlighters, it is suggested that you deactivate the standard one as shown in the screenshot below.
+
+![Screenshot](https://github.com/yrammos/tmLilyPond/blob/master/Screenshot.png)
+
+Copyright © 2014 by [Yannis Rammos](http://www.twitter.com/yannisrammos). This work is made available under the terms of the Creative Commons Attribution-NonCommercial 3.0 Unported (CC BY-NC 3.0) license, <http://creativecommons.org/licenses/by-sa/3.0/>.
