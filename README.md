@@ -7,7 +7,7 @@ Enhanced LilyPond syntax highlighter for the [TextMate](http://macromates.com) e
 
 ### Motivation
 
-TextMate currently ships with Jacob Rus's `LilyPond.tmbundle`, which provides a rather basic LilyPond grammar definition for syntax highlighting. `tmLilyPond` is intended as a substantial upgrade to this highlighter including, among other features, support for drum mode notation, figured bass, as well as advanced lyrics notation and markup text. To prevent conflicts between the two highlighters, it is suggested that you disable the original one as shown on the screenshot below. All other features in Rus's original LilyPond bundle (commands, snippets, etc.) will continue to work normally.
+TextMate currently ships with Jacob Rus's `LilyPond.tmbundle`, which provides a rather basic LilyPond grammar definition for syntax highlighting. `tmLilyPond` is intended as a substantial upgrade to this highlighter including support for drum mode notation, figured bass, as well as advanced lyrics notation and markup text, among many other refinements. To prevent conflicts between the two highlighters, it is suggested that you disable the original one as shown on the screenshot below. All other features in Rus's original LilyPond bundle (commands, snippets, etc.) will continue to work normally.
 
 ![Screenshot](https://raw.githubusercontent.com/yrammos/tmLilyPond/master/Screenshot.png)
 
@@ -24,6 +24,7 @@ Copyright © 2014 by [Yannis Rammos](http://www.twitter.com/yannisrammos). This 
 
 #### 21 May 2014
 - NEW: Add support for comment and block comment toggling (⌘-/ and ⌘-⎇-/).
+- NEW: Code folding.
 
 #### 4 April 2014
 - NEW: First release.
