@@ -5,6 +5,7 @@
 	<key>fileTypes</key>
 	<array>
 		<string>ly</string>
+		<string>ily</string>
 	</array>
 	<key>keyEquivalent</key>
 	<string>~@L</string>
